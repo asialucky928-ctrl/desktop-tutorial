@@ -7,7 +7,7 @@
 <body>
     <center>
         <h1><center>Assignment # 1</center></h1>
-        <h2><center>Areesha Parvaiz</center></h2>
+        <h2><center>ASIA</center></h2>
         <hr>
     </center>
     <hr>
