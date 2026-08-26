@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     
-    <title>Areesha Parvaiz - Assignment 1</title>
+    <title> ASIA - Assignment 1</title>
 </head>
 <body>
     <center>
